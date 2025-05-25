@@ -1,8 +1,11 @@
 /* Refs: f:into:02 */
 .odd {
     background-color:#f08080 ;
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+/* I FAILED the font portion of this because i needed ""
+ANY TIME you have a font with a space in the name you NEED
+to add quotes bruh, what is this amateur hour lmao */
 
 #two {
     color:hsl(240, 100%, 50%);
