@@ -1,5 +1,10 @@
 /* Refs: f:into:03 */
 
+/* I fucked up, what
+ i made  a class when i could just group them bitches up
+ instead of muthafucking button, son.  i could comma grouped
+ buttontwo and buttonOne */
+
 /* - **The first element**: a black background 
 and white text
 - **The second element**: a yellow background
@@ -14,9 +19,13 @@ a list of fonts containing `Helvetica` and
 }
 
 .buttonOne {
+    color: #ffffff;
+    background-color: hwb(0 0% 100%);
+
 
 }
 
 .buttonTwo {
+    background-color: lab(97.14% -21.56 94.48);
 
 }
