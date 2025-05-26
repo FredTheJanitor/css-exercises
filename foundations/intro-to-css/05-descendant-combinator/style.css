@@ -1,4 +1,14 @@
 /* Refs: f:into:05 */
 div p {
-
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
 }
+
+/* 
+.container .text {
+
+this should work too
+}
+*/
