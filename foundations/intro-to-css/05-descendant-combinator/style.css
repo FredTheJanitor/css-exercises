@@ -1,4 +1,15 @@
 /* Refs: f:into:05 */
+/* Post project summary
+
+Pretty easy one, because I was paying attention during the
+lessons and already remembered off rip that descendant
+combinators were just including a space, vs chained.
+
+I understood the Both, Either, and within kind of concepts of
+chaining, grouping, and descending respectively at this point
+
+*/
+
 div p {
     background-color: yellow;
     color: red;
@@ -11,4 +22,7 @@ div p {
 
 this should work too
 }
+
+div .text works too!! so you can combine classes
+with normal elements thats pretty cool lol.
 */
