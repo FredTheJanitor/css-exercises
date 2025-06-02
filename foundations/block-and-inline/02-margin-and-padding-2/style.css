@@ -10,6 +10,19 @@ ended up deleting button container margin completely
 as it was doubling bottom margin unneccesarily.
 */
 
+/* After Lesson Summary::after
+I worked pretty quickly through this one and overlooked
+some margins that were obviously different.
+
+I also am realizing now that in these specific exercises
+it may make more sense to make changes beneath the given
+code under a comment to make them more readable.  not like
+duplicated, but like as the 2nd half of the card if im 
+adding whole new property/value pairs
+
+I also learned that font-size: medium is 16ish! lol
+*/
+
 body {
   background: #eee;
   font-family: sans-serif;
