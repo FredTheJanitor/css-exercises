@@ -1,5 +1,9 @@
 /* Refs: f:block:02 */
 
+/* after lesson discrepency:
+padding on sides and bottom of card is doubled
+*/
+
 body {
   background: #eee;
   font-family: sans-serif;
