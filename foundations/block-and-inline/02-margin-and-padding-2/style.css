@@ -4,6 +4,12 @@
 padding on sides and bottom of card is doubled
 */
 
+/* after lesson fix:
+changed margins in first two sections to margin-bottom
+ended up deleting button container margin completely
+as it was doubling bottom margin unneccesarily.
+*/
+
 body {
   background: #eee;
   font-family: sans-serif;
@@ -21,7 +27,7 @@ body {
 
 .title {
   background: #e3f4ff;
-  margin: 10px;
+  margin-bottom: 10px;
   /* also supposed to be 8 so nice */
   padding: 10px;
   /* also supposed to be 8 so nice */
@@ -32,7 +38,7 @@ body {
 
 .content {
   background: #e3f4ff;
-  margin: 10px;
+  margin-bottom: 10px;
   /* also supposed to be 8 so nice */
   padding: 15px 10px;
   /* also supposed to be 16 and 8 so nice! */
@@ -40,7 +46,7 @@ body {
 
 .button-container {
   background: #e3f4ff;
-  margin: 10px;
+  
   /* also supposed to be 8 so nice */
   padding: 10px;
   /* also supposed to be 8 so nice */
