@@ -1,5 +1,9 @@
 /* refs: 04flex */
 
+/* after lesson summary:
+if you want an exact width between items
+center works.
+*/
 body {
   font-family: 'Courier New', Courier, monospace;
 }
