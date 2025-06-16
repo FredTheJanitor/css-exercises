@@ -1,5 +1,12 @@
 /* refs: 02flex */
 
+/* my code was verbose and ugly here
+i could have simply added gap to ul instead
+of custom classing my way to victory
+also my flex-start and end properties were
+superfluous based on my space between
+i basically did a bunch of extra typing for 
+no reason but it did work, just hacky. */
 
 .header  {
   font-family: monospace;
