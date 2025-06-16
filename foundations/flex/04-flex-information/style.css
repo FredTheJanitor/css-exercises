@@ -1,3 +1,5 @@
+/* refs: 04flex */
+
 body {
   font-family: 'Courier New', Courier, monospace;
 }
@@ -10,6 +12,25 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+  margin-bottom: 32px;
+  
+}
+
+.bitches {
+  display: flex;
+  gap: 52px;
+  /* i had space evenly, but apparently they 
+  wanted EXACTLY 52 px between each so aight */
+  justify-content: center;
+  
+}
+.lilBitches {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  align-items: center;
+  text-align: center;
 }
 
 /* do not edit this footer */
