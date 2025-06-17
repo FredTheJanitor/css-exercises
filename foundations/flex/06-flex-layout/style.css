@@ -74,4 +74,5 @@ to column as that seemed to vibe */
   display: flex;
   gap: 1rem;
   padding: 1rem;
+  background-color: rgb(230, 230, 230);
 }
