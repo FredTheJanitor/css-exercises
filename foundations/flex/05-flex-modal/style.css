@@ -1,4 +1,15 @@
 /* refs: 05flex */
+
+/* after project summary
+my code is far more verbose than the solution,
+but it somehow is a little less finicky when
+at minimum size, so like yeah lol, idek
+
+I'm sure I could try to minimize the code I'm
+writing, but I am getting it done through some
+tinkering so I'm not that mad about it
+
+*/
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 html, body {
