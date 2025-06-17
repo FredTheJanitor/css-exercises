@@ -17,6 +17,8 @@ body {
 /* add flex:1 to stretch main */
 .main {
   flex: 1;
+  /* add display flex to make nav and content coexist */
+  display: flex;
 }
 
 .footer {
