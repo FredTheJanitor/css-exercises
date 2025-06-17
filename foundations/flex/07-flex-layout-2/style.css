@@ -19,8 +19,10 @@ body {
   /* adjust font weight and size in header */
   /* specific size and weight per self-check */
   font-weight: 900;
+  /* 32 px seems to correlate with xx-large */
   font-size: 32px;
-  padding-left: 1rem;
+  /* 16 px seems to correlate with 1rem here */
+  padding-left: 16px;
 }
 /* add flex:1 to stretch main */
 .main {
