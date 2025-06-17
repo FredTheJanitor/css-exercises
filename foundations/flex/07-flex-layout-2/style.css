@@ -34,6 +34,8 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
+  /* prevent nav from squishing */
+  flex: none;
 }
 
 .card {
