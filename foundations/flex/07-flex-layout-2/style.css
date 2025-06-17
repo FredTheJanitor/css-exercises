@@ -16,6 +16,10 @@ body {
   /* add flex to header to align words */
   display: flex;
   align-items: center;
+  /* adjust font weight and size in header */
+  font-weight: bolder;
+  font-size: xx-large;
+  padding-left: 1rem;
 }
 /* add flex:1 to stretch main */
 .main {
