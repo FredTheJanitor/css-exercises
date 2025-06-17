@@ -61,19 +61,30 @@ a {
 /* add content class to style cards */
 
 .content {
-  
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  padding: 2rem;
+
 }
 
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  /* define card width and padding*/
+  width: 20rem;
+  padding: 1rem;
 }
 
 .footer {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  /* align text within footer */
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 
