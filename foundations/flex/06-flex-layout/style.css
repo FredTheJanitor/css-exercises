@@ -65,4 +65,5 @@ to column as that seemed to vibe */
   flex-direction: column;
   /* add flex 1 to grow to maximum space and center */
   flex: 1;
+  gap: 1rem;
 }
