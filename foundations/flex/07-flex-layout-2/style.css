@@ -58,6 +58,12 @@ a {
   font-size: large;
 }
 
+/* add content class to style cards */
+
+.content {
+  
+}
+
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
