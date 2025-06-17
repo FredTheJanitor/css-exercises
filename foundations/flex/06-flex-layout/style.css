@@ -52,3 +52,12 @@ a {
 }
 
 /* begin content centering */
+
+/* I centered the content and shifted 
+to column as that seemed to vibe */
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
