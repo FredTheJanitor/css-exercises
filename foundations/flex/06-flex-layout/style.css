@@ -68,3 +68,10 @@ to column as that seemed to vibe */
   flex: 1;
   gap: 1rem;
 }
+
+/* start footer */
+.footer {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+}
