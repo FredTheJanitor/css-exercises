@@ -17,8 +17,9 @@ body {
   display: flex;
   align-items: center;
   /* adjust font weight and size in header */
-  font-weight: bolder;
-  font-size: xx-large;
+  /* specific size and weight per self-check */
+  font-weight: 900;
+  font-size: 32px;
   padding-left: 1rem;
 }
 /* add flex:1 to stretch main */
